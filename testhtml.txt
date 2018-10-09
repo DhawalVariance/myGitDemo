@@ -1,2 +1,3 @@
 (Master) init
 (Master) start new story
+(issue 22) start working
