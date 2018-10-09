@@ -1,1 +1,2 @@
 (Master) init
+(Master) start new story
